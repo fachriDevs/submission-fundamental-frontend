@@ -1,0 +1,1 @@
+ini adalah web pencari minuman, khususnya coktail. untuk bisa menjalankannya anda harus membuka terminal dan masukkan kode npm install dan npm run start-dev. untuk melakukan pencarian silakan masukkan keyword ke kolom pencarian, jika minuman yang anda cari ada di dalam API, maka akan ditampilkan. jika tidak ada, maka akan muncul tulisan {keyword} is not found.
